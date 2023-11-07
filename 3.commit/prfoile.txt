@@ -1,2 +1,2 @@
-email :
-gitID :
+email : nds200916@gmail.com
+gitID : choisuchoi
